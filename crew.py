@@ -26,4 +26,4 @@ def mission_assignment(astronaut, role, destination):
     print(f"{astronaut} will serve as {role} on the mission to {destination}.")
 
 mission_assignment("Ada", "Pilot", "Mars")
-mission_assignment("Mae", "Commander", "the Moon")
+mission_assignment("Grace", "Commander", "the Moon")
